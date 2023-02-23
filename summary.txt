@@ -1,0 +1,18 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+    o.  Taking arguments from command line prevents editing of code everytime we change input parameters. It enables code reusability and flexibility. 
+    o. Pandas library was used to read the csv file and sort data by timestamp. This library is used for data analysis tasks. It makes it easy to work with structured data and heps to perform filtering, sorting, aggregating etc.
+    o. Numpy library provides efficient functions that give good performance when used with large datasets. Numpy Array is memory efficient to store points for payers.
+    Python was used because of it's simplicity and the libraries it had offered to make things easier.
+
+2. What are the advantages and disadvantages of your solution?
+    Advantages: 
+        Easy to read, Offers code resuability, flexibility. Could be scalable to large datasets.
+        Fast because we are using numpy add.at function. Code satifies conditions given in problem.
+
+    Disadvantages:
+        We assume input file is properly formatted. Not doing any data cleaning.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+    I'm currently working on the Natural Language Processing assignments towards my coursework for Adv NLP. The project I worked on was to develop a text classifier based on neural network toolkit for NLP. I had used pre trained Glove embeddings for the Embedding Layer of the model. Tried the code with various initialization techniques like Xavier, Uniform etc. I worked on improving the performance of the model on SST and IMDB reviews datasets. It was a good experience as I had learnt a lot about various text classifiers, importance of using pre-trained embeddings and role of initialization techniques. 
+    The main challenge was to apply the right method at the right place. A lot of testing, trial and error was necessary to get the improved results. It was a great learning experience for me.
